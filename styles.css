@@ -1,7 +1,7 @@
-.modules footer p, .modules, .main-heading {
+#footer-container, .modules, .main-heading {
 	text-align: center;
 }
-.modules {
+.modules, .index {
 	margin: 0 3em;
 }
 .modules p{
