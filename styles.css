@@ -1,11 +1,13 @@
-footer {
+footer, .modules, .main-heading {
 	text-align: center;
 }
-body {
-	text-align: center;
+.modules {
 	margin: 0 3em;
 }
-body p {
+.modules p {
 	padding: 0 2em;
 	text-align:justify;
+}
+.main-heading {
+	margin-to: 1em 0;
 }
